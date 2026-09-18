@@ -37,7 +37,3 @@ Use **Preview** or **Render** to inspect the result before exporting.
 Use the latest available version of OpenSCAD when exporting to 3MF. The current release is recommended because it supports exporting multiple parts in one 3MF file, which makes it possible to assign separate colors to the label base and raised text for multicolor 3D printing.
 
 Export the model as a 3MF file, then assign filament colors to the separate parts in your slicer. Confirm that the base and raised text remain separate objects after import.
-
-## License
-
-No license has been specified for this project yet.
